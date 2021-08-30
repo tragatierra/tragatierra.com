@@ -72,12 +72,14 @@ compress_html: # http://jch.penibelst.de/
 
 # Structure
 navigation:
-  - title: Proyectos
+  - title: Procesos
     url: /
-  # - title: Fonts
-  #   url: /fonts
   - title: Somos
     url: /about
+  - title: Colab
+    url: /colab
+  # - title: Fonts
+  #   url: /fonts    
   - title: Contacto
     url: /contact
 
