@@ -22,7 +22,9 @@ title: Tragatierra
 long-title: Tragatierra
 email: hi@tragatierra.com
 description: "The selected portfolio of London based digital product designer Matt Grey"
-baseurl: "/tragatierra.com" # the subpath of your site, e.g. /blog
+# baseurl: "" # the subpath of your site, e.g. /blog, nothing for local
+baseurl: "/tragatierra.com" # for Github
+
 # url: "https://tragatierra.com" # the base hostname & protocol for your site
 url: "https://vigliensoni.github.io" # the base hostname & protocol for your site
 timezone: Europe/London
@@ -42,7 +44,7 @@ social-username:
   spotify: "tragatierra"
 
 # Content
-image_serve_path: "/tragatierra.com/images" # <img src="{{ site.image_serve_path }}/projects/img.jpg">
+image_serve_path: "/tragetierra.com/images" # <img src="{{ site.image_serve_path }}/projects/img.jpg">
 
 # Build settings
 markdown: kramdown
@@ -70,12 +72,12 @@ compress_html: # http://jch.penibelst.de/
 navigation:
   - title: Projects
     url: /
-  - title: Fonts
-    url: /fonts
+  # - title: Fonts
+  #   url: /fonts
   - title: About
-    url: /about
+    url: /tragatierra.com/about
   - title: Contact
-    url: /contact
+    url: /tragatierra.com/contact
 
 permalink: /:title/
 
