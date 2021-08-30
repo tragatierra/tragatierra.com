@@ -23,22 +23,23 @@ long-title: Tragatierra
 email: hi@tragatierra.com
 description: "The selected portfolio of London based digital product designer Matt Grey"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://tragatierra.com" # the base hostname & protocol for your site
+# url: "https://tragatierra.com" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 timezone: Europe/London
 year: 2021
-start-year: 2010
+start-year: 2021
 sitemap: true
 
 # Social networks
 social-username:
-  # twitter: "@mattgreydesign"
+  twitter: "@tttragatierra"
   # linkedin: "himatt"
   # github: "mattgreydesign"
   # medium: "@mattgreydesign"
-  pinterest: "mattgreydesign"
+  # pinterest: "mattgreydesign"
   instagram: "tragatragatragatierra"
   # flickr: "mattgreydesign"
-  spotify: "tragatierras"
+  spotify: "tragatierra"
 
 # Content
 image_serve_path: "/images" # <img src="{{ site.image_serve_path }}/projects/img.jpg">
