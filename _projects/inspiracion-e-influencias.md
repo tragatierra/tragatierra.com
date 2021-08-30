@@ -16,7 +16,9 @@ thumbnail: "/projects/inspiraciones/TR-303-Original-Add.jpg"
 #   url: https://www.skisolutions.com
 
 intro: |
-  Aquí hay una lista de la música que nos obsesiona. El listado es colaborativo – envíanos música que te gustaría añadir. Y bailemos.
+  Música, gráfica, y cómo cierta tecnología musical modula y da forma a mucha 
+  de la música que nos gusta.
+
 
 
 content_layout:
@@ -30,21 +32,25 @@ content_layout:
         width:
         height:
 
-  - section_layout: 1col
-    images:
-      - caption: >
-          Ikutaro Kakehashi, el fundador de Roland (1972) y diseñador de la TB-303, TR-808 y TR-909.
+  # - section_layout: 1col
+  #   images:
+  #     - caption: >
+  #         Ikutaro Kakehashi, el fundador de Roland (1972) y diseñador de la TB-303, TR-808 y TR-909.
 
-        description: 'Ikutaro Kakehashi'
-        url: '/projects/inspiraciones/kakehashi.jpg'
-        width:
-        height:
+  #       description: 'Ikutaro Kakehashi'
+  #       url: '/projects/inspiraciones/kakehashi.jpg'
+  #       width:
+  #       height:
 
 ---
 
 
+<img src="{{site.baseurl}}/images/projects/inspiraciones/kakehashi.jpg">
+<p><small>Ikutaro Kakehashi, el fundador de Roland (1972) y diseñador de la TB-303, TR-808 y TR-909.</small></p>
 
 
+<br>
+Aquí hay una lista de la música que nos obsesiona. El listado es colaborativo – envíanos música que te gustaría añadir. Y bailemos.
 <iframe src="https://open.spotify.com/embed/playlist/5wQ3BxciiSQWnKINmaVZyA" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 
