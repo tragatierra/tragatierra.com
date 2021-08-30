@@ -4,16 +4,16 @@ published: true
 title: "Colaboración a distancia"
 description: "Colaboración a distancia"
 categories: musica, produccion, colaboracion
-disciplines: UX, Responsive web design, HTML/CSS
+# disciplines: UX, Responsive web design, HTML/CSS
 media: Website
 ownership:
 client: 
 time_period: 2021
 thumbnail: "/projects/colaboracion-distancia/computadoras.png"
 
-website:
-  button_text: Visit the site
-  url: https://www.skisolutions.com
+# website:
+#   button_text: Visit the site
+#   url: https://www.skisolutions.com
 
 intro: |
   Componer y producir a distancia de una manera efectiva puede ser complejo ...
