@@ -24,7 +24,7 @@ email: hi@tragatierra.com
 description: "The selected portfolio of London based digital product designer Matt Grey"
 baseurl: "" # the subpath of your site, e.g. /blog
 # url: "https://tragatierra.com" # the base hostname & protocol for your site
-url: "" # the base hostname & protocol for your site
+url: "https://vigliensoni.github.io" # the base hostname & protocol for your site
 timezone: Europe/London
 year: 2021
 start-year: 2021
