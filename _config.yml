@@ -18,12 +18,12 @@ include:
   - _redirects
 
 # Site settings
-title: Matt Grey
-long-title: Matt Grey Design
-email: mattgreydesign@gmail.com
+title: Tragatierra
+long-title: Tragatierra
+email: hi@tragatierra.com
 description: "The selected portfolio of London based digital product designer Matt Grey"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://himatt.com" # the base hostname & protocol for your site
+url: "https://tragatierra.com" # the base hostname & protocol for your site
 timezone: Europe/London
 year: 2021
 start-year: 2010
@@ -31,14 +31,14 @@ sitemap: true
 
 # Social networks
 social-username:
-  twitter: "@mattgreydesign"
-  linkedin: "himatt"
-  github: "mattgreydesign"
-  medium: "@mattgreydesign"
+  # twitter: "@mattgreydesign"
+  # linkedin: "himatt"
+  # github: "mattgreydesign"
+  # medium: "@mattgreydesign"
   pinterest: "mattgreydesign"
-  instagram: "mattgreydesign"
-  flickr: "mattgreydesign"
-  spotify: "mattgreydesign"
+  instagram: "tragatragatragatierra"
+  # flickr: "mattgreydesign"
+  spotify: "tragatierras"
 
 # Content
 image_serve_path: "/images" # <img src="{{ site.image_serve_path }}/projects/img.jpg">
