@@ -22,11 +22,14 @@ title: Tragatierra
 long-title: Tragatierra
 email: hi@tragatierra.com
 description: "The selected portfolio of London based digital product designer Matt Grey"
-baseurl: "" # the subpath of your site, e.g. /blog, nothing for local
-# baseurl: "/tragatierra.com" # for Github
 
+# url: ""
 # url: "https://tragatierra.com" # the base hostname & protocol for your site
 url: "https://vigliensoni.github.io" # the base hostname & protocol for your site
+
+# baseurl: "" # the subpath of your site, e.g. /blog, nothing for local
+# baseurl: "/tragatierra.com" # for Github
+
 timezone: Europe/London
 year: 2021
 start-year: 2021
@@ -70,7 +73,7 @@ compress_html: # http://jch.penibelst.de/
 
 # Structure
 navigation:
-  - title: Ideas
+  - title: Proyectos
     url: /
   # - title: Fonts
   #   url: /fonts
