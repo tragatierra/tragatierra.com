@@ -30,9 +30,22 @@ content_layout:
         width:
         height:
 
+  - section_layout: 1col
+    images:
+      - caption: >
+          Ikutaro Kakehashi, el fundador de Roland (1972) y diseñador de la TB-303, TR-808 y TR-909.
+
+        description: 'Ikutaro Kakehashi'
+        url: '/projects/inspiraciones/kakehashi.jpg'
+        width:
+        height:
+
 ---
 
 
 
 
 <iframe src="https://open.spotify.com/embed/playlist/5wQ3BxciiSQWnKINmaVZyA" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+
+
