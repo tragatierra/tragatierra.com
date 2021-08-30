@@ -23,7 +23,7 @@ content_layout:
     images:
       - caption: imagen de ...
         description: 'Homepage'
-        url: '/projects/ski-solutions/ski-solutions-homepage.jpg'
+        url: "/projects/tragatierra/01-TRAGATIERRA-sm.jpg"
         width:
         height:
 
@@ -43,3 +43,10 @@ content_layout:
   #       width:
   #       height:
 ---
+
+Así trabajamos 
+- la composición
+- la producción
+- la mezcla
+- el master
+- el material gráfico fue resuelto de esta manera
