@@ -1,5 +1,245 @@
-<svg width="48px" height="48px" viewBox="137 220 132 132" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <title>Matt Grey Design</title>
-  <defs></defs>
-  <path d="M203,352 C166.549207,352 137,322.450793 137,286 C137,249.549207 166.549207,220 203,220 C239.450793,220 269,249.549207 269,286 C269,322.450793 239.450793,352 203,352 Z M204.912,313 L204.912,261.736 L197.136,261.736 L182.448,293.632 L167.472,261.736 L159.696,261.736 L159.696,313 L167.472,313 L167.472,278.728 L179.568,303.712 L185.328,303.712 L197.136,278.728 L197.136,313 L204.912,313 Z M249.012,293.128 L249.012,285.28 L230.292,285.28 L230.292,291.904 L241.236,291.904 L241.236,294.784 C241.236,298.096 240.516,300.688 238.644,302.848 C236.628,305.152 233.676,306.448 230.292,306.448 C227.268,306.448 224.532,305.296 222.732,303.352 C220.212,300.616 219.636,297.664 219.636,287.368 C219.636,277.072 220.212,274.192 222.732,271.456 C224.532,269.512 227.268,268.288 230.292,268.288 C236.052,268.288 239.796,271.6 241.092,277.216 L248.94,277.216 C247.5,268.432 241.164,261.304 230.292,261.304 C224.82,261.304 220.356,263.248 216.828,266.776 C211.788,271.816 211.86,277.504 211.86,287.368 C211.86,297.232 211.788,302.92 216.828,307.96 C220.356,311.488 224.964,313.432 230.292,313.432 C235.692,313.432 240.516,311.704 244.404,307.6 C247.788,304 249.012,299.752 249.012,293.128 Z" id="logo" stroke="none" fill="#FFFFFF" fill-rule="evenodd"></path>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="47.517048mm"
+   height="47.073582mm"
+   viewBox="0 0 47.517045 47.073579"
+   version="1.1"
+   id="svg1360"
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   sodipodi:docname="TT-ESPIRAL-4.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1362"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.5843744"
+     inkscape:cx="79.903284"
+     inkscape:cy="112.79326"
+     inkscape:window-width="1608"
+     inkscape:window-height="1003"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g1046">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1653"
+       originx="-81.334918"
+       originy="-85.8958" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1357" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-81.334939,-85.895813)">
+    <g
+       id="g1046"
+       transform="matrix(1.1365194,0,0,1.1365194,-11.811649,-13.799705)"
+       inkscape:export-filename="/Users/gabriel/Dropbox/GAB_IGNA/3-ARTE/g1046.png"
+       inkscape:export-xdpi="1250.353"
+       inkscape:export-ydpi="1250.353">
+      <path
+         style="fill:none;stroke:#19f500;stroke-width:0.584879;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+         d="m 141.85986,108.39555 c 0,21.53466 -17.45726,38.99191 -38.99192,38.99191 -21.534651,0 -38.991909,-17.45725 -38.991909,-38.99191 0,-21.534656 17.457258,-38.991915 38.991909,-38.991915 21.53466,0 38.99192,17.457259 38.99192,38.991915 z m 0,0"
+         id="path70"
+         inkscape:export-filename="/Users/gabriel/rect68.png"
+         inkscape:export-xdpi="416.78"
+         inkscape:export-ydpi="416.78" />
+      <path
+         style="fill:none;stroke:#19f500;stroke-width:0.877321;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+         d="m 136.98587,108.39555 c 0,18.84279 -15.27513,34.11792 -34.11793,34.11792 -18.842786,0 -34.11792,-15.27513 -34.11792,-34.11792 0,-18.842793 15.275134,-34.117925 34.11792,-34.117925 18.8428,0 34.11793,15.275132 34.11793,34.117925 z m 0,0"
+         id="path72"
+         inkscape:export-filename="/Users/gabriel/rect68.png"
+         inkscape:export-xdpi="416.78"
+         inkscape:export-ydpi="416.78" />
+      <path
+         style="fill:none;stroke:#19f500;stroke-width:1.75464;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+         d="m 122.3639,108.39555 c 0,10.76733 -8.72863,19.49595 -19.49595,19.49595 -10.76733,0 -19.49596,-8.72862 -19.49596,-19.49595 0,-10.767329 8.72863,-19.495958 19.49596,-19.495958 10.76732,0 19.49595,8.728629 19.49595,19.495958 z m 0,0"
+         id="path78"
+         inkscape:export-filename="/Users/gabriel/rect68.png"
+         inkscape:export-xdpi="416.78"
+         inkscape:export-ydpi="416.78" />
+      <path
+         style="fill:none;stroke:#19f500;stroke-width:2.04708;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+         d="m 117.48991,108.39555 c 0,8.07546 -6.5465,14.62197 -14.62197,14.62197 -8.075457,0 -14.621961,-6.54651 -14.621961,-14.62197 0,-8.07546 6.546504,-14.621969 14.621961,-14.621969 8.07547,0 14.62197,6.546509 14.62197,14.621969 z m 0,0"
+         id="path80"
+         inkscape:export-filename="/Users/gabriel/rect68.png"
+         inkscape:export-xdpi="416.78"
+         inkscape:export-ydpi="416.78" />
+      <path
+         style="fill:none;stroke:#19f500;stroke-width:2.33951;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+         d="m 112.61592,108.39555 c 0,5.3836 -4.36438,9.74798 -9.74798,9.74798 -5.383594,0 -9.747973,-4.36438 -9.747973,-9.74798 0,-5.3836 4.364379,-9.747979 9.747973,-9.747979 5.3836,0 9.74798,4.364379 9.74798,9.747979 z m 0,0"
+         id="path82"
+         inkscape:export-filename="/Users/gabriel/rect68.png"
+         inkscape:export-xdpi="416.78"
+         inkscape:export-ydpi="416.78" />
+      <path
+         style="fill:none;stroke:#19f500;stroke-width:2.63196;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+         d="m 107.74193,108.39555 c 0,2.69186 -2.18212,4.87399 -4.87399,4.87399 -2.69186,0 -4.873984,-2.18213 -4.873984,-4.87399 0,-2.69187 2.182124,-4.87399 4.873984,-4.87399 2.69187,0 4.87399,2.18212 4.87399,4.87399 z m 0,0"
+         id="path84"
+         inkscape:export-filename="/Users/gabriel/rect68.png"
+         inkscape:export-xdpi="416.78"
+         inkscape:export-ydpi="416.78" />
+      <path
+         style="fill:none;stroke:#19f500;stroke-width:2.33951;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+         d="m 93.119968,108.39555 c 0,-1.22535 0.226183,-2.39803 0.638823,-3.47831"
+         id="path108"
+         inkscape:export-filename="/Users/gabriel/rect68.png"
+         inkscape:export-xdpi="416.78"
+         inkscape:export-ydpi="416.78" />
+      <path
+         style="fill:none;stroke:#19f500;stroke-width:2.33951;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+         d="m 105.89489,117.66438 c -0.95284,0.31097 -1.97028,0.47914 -3.02695,0.47914 -0.22478,0 -0.44792,-0.008 -0.6689,-0.0226"
+         id="path110"
+         inkscape:export-filename="/Users/gabriel/rect68.png"
+         inkscape:export-xdpi="416.78"
+         inkscape:export-ydpi="416.78" />
+      <path
+         style="fill:none;stroke:#19f500;stroke-width:2.63196;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+         d="m 102.86794,103.52156 c 2.69187,0 4.87399,2.18212 4.87399,4.87399"
+         id="path112"
+         inkscape:export-filename="/Users/gabriel/rect68.png"
+         inkscape:export-xdpi="416.78"
+         inkscape:export-ydpi="416.78" />
+      <path
+         style="fill:none;stroke:#19f500;stroke-width:2.63196;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+         d="m 102.86794,113.26954 c -2.69186,0 -4.873985,-2.18213 -4.873985,-4.87399"
+         id="path114"
+         inkscape:export-filename="/Users/gabriel/rect68.png"
+         inkscape:export-xdpi="416.78"
+         inkscape:export-ydpi="416.78" />
+      <path
+         style="fill:none;stroke:#19f500;stroke-width:2.04708;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+         d="m 91.859838,118.0199 c -2.250285,-2.57166 -3.61386,-5.93878 -3.61386,-9.62435"
+         id="path118"
+         inkscape:export-filename="/Users/gabriel/rect68.png"
+         inkscape:export-xdpi="416.78"
+         inkscape:export-ydpi="416.78" />
+      <path
+         style="fill:none;stroke:#19f500;stroke-width:2.04708;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+         d="m 115.74124,115.33552 c -1.18448,2.19254 -2.91284,4.04821 -5.00421,5.38615"
+         id="path120"
+         inkscape:export-filename="/Users/gabriel/rect68.png"
+         inkscape:export-xdpi="416.78"
+         inkscape:export-ydpi="416.78" />
+      <path
+         style="fill:none;stroke:#19f500;stroke-width:2.04708;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+         d="m 107.97243,94.689231 c 1.02582,0.382176 1.99707,0.876175 2.89901,1.467273"
+         id="path122"
+         inkscape:export-filename="/Users/gabriel/rect68.png"
+         inkscape:export-xdpi="416.78"
+         inkscape:export-ydpi="416.78" />
+      <path
+         style="fill:none;stroke:#19f500;stroke-width:1.75464;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+         d="m 84.916308,100.77816 c 2.336976,-5.500751 7.128336,-9.706851 12.999716,-11.244189"
+         id="path124"
+         inkscape:export-filename="/Users/gabriel/rect68.png"
+         inkscape:export-xdpi="416.78"
+         inkscape:export-ydpi="416.78" />
+      <path
+         style="fill:none;stroke:#19f500;stroke-width:1.75464;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+         d="m 122.3639,108.39555 c 0,1.42919 -0.15383,2.82247 -0.44576,4.16421"
+         id="path126"
+         inkscape:export-filename="/Users/gabriel/rect68.png"
+         inkscape:export-xdpi="416.78"
+         inkscape:export-ydpi="416.78" />
+      <path
+         style="fill:none;stroke:#19f500;stroke-width:1.16976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+         d="m 119.07726,132.73998 c -1.8134,1.20974 -3.76973,2.22236 -5.83813,3.00715"
+         id="path134"
+         inkscape:export-filename="/Users/gabriel/rect68.png"
+         inkscape:export-xdpi="416.78"
+         inkscape:export-ydpi="416.78" />
+      <path
+         style="fill:none;stroke:#19f500;stroke-width:1.16976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+         d="m 94.374005,80.404253 c 2.688055,-0.814616 5.539847,-1.252641 8.493935,-1.252641"
+         id="path138"
+         inkscape:export-filename="/Users/gabriel/rect68.png"
+         inkscape:export-xdpi="416.78"
+         inkscape:export-ydpi="416.78" />
+      <path
+         style="fill:none;stroke:#19f500;stroke-width:1.16976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+         d="m 93.119968,135.97547 c -1.334636,-0.47178 -2.624847,-1.03762 -3.86251,-1.68964"
+         id="path140"
+         inkscape:export-filename="/Users/gabriel/rect68.png"
+         inkscape:export-xdpi="416.78"
+         inkscape:export-ydpi="416.78" />
+      <path
+         style="fill:none;stroke:#19f500;stroke-width:0.877321;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+         d="m 84.124665,79.882711 c 1.367128,-0.900419 2.802671,-1.705262 4.297361,-2.404882"
+         id="path142"
+         inkscape:export-filename="/Users/gabriel/rect68.png"
+         inkscape:export-xdpi="416.78"
+         inkscape:export-ydpi="416.78" />
+      <path
+         style="fill:none;stroke:#19f500;stroke-width:0.877321;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+         d="m 83.006059,136.13933 c -1.332731,-0.95575 -2.593749,-2.00519 -3.773407,-3.13864"
+         id="path144"
+         inkscape:export-filename="/Users/gabriel/rect68.png"
+         inkscape:export-xdpi="416.78"
+         inkscape:export-ydpi="416.78" />
+      <path
+         style="fill:none;stroke:#19f500;stroke-width:0.877321;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+         d="m 94.816725,141.55797 c -1.612986,-0.39017 -3.181293,-0.89509 -4.695657,-1.50536"
+         id="path146"
+         inkscape:export-filename="/Users/gabriel/rect68.png"
+         inkscape:export-xdpi="416.78"
+         inkscape:export-ydpi="416.78" />
+      <path
+         style="fill:none;stroke:#19f500;stroke-width:0.877321;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+         d="m 109.55762,141.8579 c -1.38895,0.27619 -2.80838,0.46797 -4.25268,0.56989"
+         id="path148"
+         inkscape:export-filename="/Users/gabriel/rect68.png"
+         inkscape:export-xdpi="416.78"
+         inkscape:export-ydpi="416.78" />
+      <path
+         style="fill:none;stroke:#19f500;stroke-width:0.877321;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+         d="m 124.58271,134.7123 c -2.41757,1.99694 -5.11477,3.6673 -8.02419,4.94329"
+         id="path150"
+         inkscape:export-filename="/Users/gabriel/rect68.png"
+         inkscape:export-xdpi="416.78"
+         inkscape:export-ydpi="416.78" />
+      <path
+         style="fill:none;stroke:#19f500;stroke-width:0.877321;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+         d="m 118.11655,77.866479 c 2.47698,1.239567 4.78197,2.7717 6.86992,4.551214"
+         id="path152"
+         inkscape:export-filename="/Users/gabriel/rect68.png"
+         inkscape:export-xdpi="416.78"
+         inkscape:export-ydpi="416.78" />
+      <path
+         style="fill:none;stroke:#19f500;stroke-width:0.877321;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+         d="m 104.50924,74.316463 c 1.58315,0.07489 3.13814,0.257788 4.65758,0.54147"
+         id="path154"
+         inkscape:export-filename="/Users/gabriel/rect68.png"
+         inkscape:export-xdpi="416.78"
+         inkscape:export-ydpi="416.78" />
+      <path
+         style="fill:none;stroke:#19f500;stroke-width:0.584879;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+         d="m 84.441602,74.023515 c 2.715979,-1.459023 5.624761,-2.605553 8.678366,-3.391483"
+         id="path156"
+         inkscape:export-filename="/Users/gabriel/rect68.png"
+         inkscape:export-xdpi="416.78"
+         inkscape:export-ydpi="416.78" />
+      <path
+         style="fill:none;stroke:#19f500;stroke-width:0.584879;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+         d="m 115.07653,71.353103 c 1.1775,0.387888 2.33037,0.830355 3.45533,1.324481"
+         id="path158"
+         inkscape:export-filename="/Users/gabriel/rect68.png"
+         inkscape:export-xdpi="416.78"
+         inkscape:export-ydpi="416.78" />
+    </g>
+  </g>
 </svg>
