@@ -1,15 +1,15 @@
 ---
 date: 2021-8-30
 published: true
-title: "Colaboración a distancia"
-description: "Colaboración a distancia"
+title: "Colaborando a distancia"
+description: "Colaborando a distancia"
 categories: musica, produccion, colaboracion
 # disciplines: UX, Responsive web design, HTML/CSS
 media: Website
 ownership:
 client: 
 time_period: 2021
-thumbnail: "/projects/colaboracion-distancia/computadoras.png"
+thumbnail: "/projects/colaboracion-distancia/1920px-Trinity77.jpg"
 
 # website:
 #   button_text: Visit the site
@@ -21,9 +21,9 @@ intro: |
 content_layout:
   - section_layout: 1col
     images:
-      - caption:
+      - caption: <a href="https://commons.wikimedia.org/w/index.php?curid=79216985">Image by Tim Colegrove - CC BY-SA 4.0</a>
         description: 'Homepage'
-        url: '/projects/colaboracion-distancia/computadoras.png'
+        url: '/projects/colaboracion-distancia/1920px-Trinity77.jpg'
         width:
         height:
 
