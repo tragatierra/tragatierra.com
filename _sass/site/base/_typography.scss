@@ -1,5 +1,11 @@
+@font-face {
+	font-family: 'ARK-ES-DenseRegular';
+	src: url('../css/ARK-ES-DenseRegular.woff') format('woff');
+	}
+
 $font-family-primary: 'DM Sans', -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
 $font-family-secondary: 'DM Serif Display', serif;
+$font-family-terciary: 'ARK-ES-DenseRegular', serif;
 
 html {
   font-family: sans-serif;
@@ -24,9 +30,10 @@ h1, h2, h3, h4, h5, h6, p, ul, li, dl, dt, dd {
   line-height: var(--line-height-tiny);
 }
 
+// for landing page
 .type-level-1 {
-  font-family: $font-family-secondary;
-  font-size: var(--font-size-level-1);
+  font-family: $font-family-terciary;
+  font-size: var(--font-size-level-2);
   line-height: var(--line-height-tight);
 }
 
