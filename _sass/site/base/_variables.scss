@@ -16,7 +16,9 @@
   --font-size-xxxxlarge: #{rem(40px)};
   --font-size-xxxxxlarge: #{rem(56px)};
   --font-size-xxxxxxlarge: #{rem(72px)};
-  --font-size-xxxxxxxlarge: #{rem(90px)};
+  --font-size-xxxxxxxlarge: #{rem(60px)};
+  --font-size-xxxxxxxxlarge: #{rem(90px)};
+  --font-size-xxxxxxxxxlarge: #{rem(120px)};
 
   --font-size-level-jumbo: var(--font-size-xxxxlarge);
   --font-size-level-1: var(--font-size-xxxxlarge);
@@ -80,6 +82,7 @@
     --font-size-body-huge: var(--font-size-xxxlarge);
 
     --page-margin: #{rem(64px)};
+    --font-size-body-hugest: var(--font-size-xxxxxxxxlarge);
   }
 }
 
@@ -93,6 +96,8 @@
 
     --gutter: #{rem(32px)};
     --gutter-row: #{rem(32px)};
+
+    --font-size-body-hugest: var(--font-size-xxxxxxxxxlarge);
   }
 }
 
