@@ -9,10 +9,10 @@ $thumb-animation-ease-out: ease-in-out;
 .projects-intro-wrapper {
   @extend .grid-container;
 
-  padding-top: 0px;
-  border-top-style: solid;
-  margin-top: -100vh;
-  border-top-width: 0px;
+  // padding-top: 0px;
+  // border-top-style: solid;
+  // margin-top: -100vh;
+  // border-top-width: 0px;
 
   .projects-intro {
     @include grid-column(6);
