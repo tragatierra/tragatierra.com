@@ -16,6 +16,7 @@
   --font-size-xxxxlarge: #{rem(40px)};
   --font-size-xxxxxlarge: #{rem(56px)};
   --font-size-xxxxxxlarge: #{rem(72px)};
+  --font-size-xxxxxxxlarge: #{rem(90px)};
 
   --font-size-level-jumbo: var(--font-size-xxxxlarge);
   --font-size-level-1: var(--font-size-xxxxlarge);
@@ -27,6 +28,7 @@
   --font-size-body-small: var(--font-size-normal);
   --font-size-body-large: var(--font-size-large);
   --font-size-body-huge: var(--font-size-xxlarge);
+  --font-size-body-hugest: var(--font-size-xxxxxxxlarge);
 
   --font-size-button: var(--font-size-large);
   --font-size-form-label: var(--font-size-xlarge);
@@ -42,9 +44,9 @@
   --inner-padding: #{rem(16px)};
   --inner-padding-horizontal: #{rem(10px)};
 
-  --color-primary: 255,255,255;
-  --color-secondary: 209,29,122;
-  --color-tertiary: 0, 0, 255;
+  --color-primary: 255,255,255; //mainfontcolor
+  --color-secondary: 249,91,64; //background
+  --color-tertiary: 0, 255, 255;
   --color-action: #65ff80;
 
   --color-highlight-rgb: var(--color-tertiary);
