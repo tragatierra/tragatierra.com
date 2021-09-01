@@ -14,9 +14,9 @@
   --font-size-xxlarge-2: #{rem(28px)};
   --font-size-xxxlarge:#{rem(32px)};
   --font-size-xxxxlarge: #{rem(40px)};
-  --font-size-xxxxxlarge: #{rem(56px)};
-  --font-size-xxxxxxlarge: #{rem(72px)};
-  --font-size-xxxxxxxlarge: #{rem(60px)};
+  --font-size-xxxxxlarge: #{rem(54px)};
+  --font-size-xxxxxxlarge: #{rem(64px)};
+  --font-size-xxxxxxxlarge: #{rem(72px)};
   --font-size-xxxxxxxxlarge: #{rem(90px)};
   --font-size-xxxxxxxxxlarge: #{rem(120px)};
 
@@ -30,7 +30,7 @@
   --font-size-body-small: var(--font-size-normal);
   --font-size-body-large: var(--font-size-large);
   --font-size-body-huge: var(--font-size-xxlarge);
-  --font-size-body-hugest: var(--font-size-xxxxxxxlarge);
+  --font-size-body-hugest: var(--font-size-xxxxxlarge);
 
   --font-size-button: var(--font-size-large);
   --font-size-form-label: var(--font-size-xlarge);
