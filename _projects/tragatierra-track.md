@@ -50,3 +50,5 @@ Así trabajamos
 - la mezcla
 - el master
 - el material gráfico fue resuelto de esta manera
+
+<img class="traslucent-image" src="../../css/tunel.gif">

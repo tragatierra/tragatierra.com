@@ -43,3 +43,4 @@ content_layout:
   #       width:
   #       height:
 ---
+<img class="traslucent-image" src="../../css/tunel.gif">

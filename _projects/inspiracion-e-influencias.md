@@ -16,9 +16,7 @@ thumbnail: "/projects/inspiraciones/TR-303-Original-Add.jpg"
 #   url: https://www.skisolutions.com
 
 intro: |
-  Música, gráfica, y cómo cierta tecnología musical modula y da forma a mucha 
-  de la música que nos gusta.
-
+  Algunas de las influencias que guían e inspiran nuestra creación.
 
 
 content_layout:
@@ -44,9 +42,33 @@ content_layout:
 
 ---
 
+# Música
+- Acid House
+- Slow Jamz
+- Electro 
+- Minimal tunes
+- Egyptian Lover
+- World Class Wreckin' Cru
 
+
+{% include youtube.html id='RT9O-pUGsVM' %}
+
+# Instrumentos
+- Roland TB-303
+- Roland TR-808
+  
 <img src="{{site.baseurl}}/images/projects/inspiraciones/kakehashi.jpg">
 <p><small>Ikutaro Kakehashi, el fundador de Roland (1972) y diseñador de la TB-303, TR-808 y TR-909.</small></p>
+
+# Imágenes
+- Documental inglés
+
+# Pensamiento
+- Decrecimiento
+
+
+
+
 
 
 <br>
@@ -54,4 +76,4 @@ Aquí hay una lista de la música que nos obsesiona. El listado es colaborativo 
 <iframe src="https://open.spotify.com/embed/playlist/5wQ3BxciiSQWnKINmaVZyA" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 
-
+<img class="traslucent-image" src="../../css/tunel.gif">
