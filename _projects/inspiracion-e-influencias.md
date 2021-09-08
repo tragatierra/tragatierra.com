@@ -19,16 +19,16 @@ intro: |
   Algunas de las influencias que guían e inspiran nuestra creación.
 
 
-# content_layout:
-#   - section_layout: 1col
-#     images:
-#       - caption: >
-#           Oscar Peterson en el Roland PianoPlus acompañado por una Roland TR-606 y una TB-303. La imagen corresponde a la publicidad original por Roland. (Imagen tomada de <a href="https://www.attackmagazine.com/technique/tutorials/how-to-make-an-acid-house-bassline/">Attack Magazine</a>)
+content_layout:
+  - section_layout: 1col
+    images:
+      - caption: >
+          Oscar Peterson en el Roland PianoPlus acompañado por una Roland TR-606 y una TB-303. La imagen corresponde a la publicidad original por Roland. (Imagen tomada de <a href="https://www.attackmagazine.com/technique/tutorials/how-to-make-an-acid-house-bassline/">Attack Magazine</a>)
 
-#         description: 'The Roland TB-303'
-#         url: '/projects/inspiraciones/TR-303-Original-Add.jpg'
-#         width:
-#         height:
+        description: 'The Roland TB-303'
+        url: '/projects/inspiraciones/TR-303-Original-Add.jpg'
+        width: 100
+        height:
 
 
 ---
@@ -38,8 +38,9 @@ Son muchas las influencias que aportan a Tragatierra, desde artistas, tracks, es
 Son varios los estilos de música que nos mueven, que nos sacan de un estado inmóvil. Podríamos ir muy atrás en el tiempo, pero un período en particular nos toca. Empezó a mediados de los 80s, se materializó en los 90s y su influencia se ha mantenido hasta el día de hoy en mucha de la música actual.  
 <br>
 Entre estos estilos de música están el _acid house_, _electro_, y _slow jamz_. El acid comenzó en Estados Unidos pero su masificación fue cuando llegó a Inglaterra. Así mismo, el electro es una fusión de música que partió cuando Kraftwerk fue sampleado y recontextualizado por Afrika Bambaataa. Luego de eso, varios artistas en la costa oeste de Estados Unidos, como Egyptian Lover y World Class Wreckin' Cru junto a Dr. Dre, trabajaron y desarrollaron ese sonido y groove.
-<br>
+<br><br>
 
+{% include youtube.html id='RT9O-pUGsVM' %}
 
 # Música
 ### _Baby Wants to Ride_ by Jamie Principle and Frankie Knuckles 
@@ -104,7 +105,7 @@ Aquí hay una lista de la música que nos obsesiona. El listado es colaborativo 
 
 
 
-{% include youtube.html id='RT9O-pUGsVM' %}
+
 
 # Instrumentos
 ## Roland TB-303
