@@ -9,7 +9,7 @@ media: Website
 ownership:
 client: 
 time_period: 2021
-thumbnail: "/projects/colaboracion-distancia/1920px-Trinity77.jpg"
+thumbnail: "/projects/colaboracion-distancia/1920px-Trinity-3-4.png"
 
 # website:
 #   button_text: Visit the site

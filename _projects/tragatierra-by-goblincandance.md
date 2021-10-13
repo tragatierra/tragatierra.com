@@ -9,7 +9,7 @@ media: Website
 ownership:
 client: 
 time_period: 2021
-thumbnail: "/projects/goblincandance/tragatierra-by-goblincandance-2.png"
+thumbnail: "/projects/goblincandance/tragatierra-by-goblincandance-3-4.png"
 
 # website:
 #   button_text: Visit the site

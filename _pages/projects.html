@@ -25,7 +25,8 @@ priority: 1.0
     <div class="thumbnail-wrapper">
       <a href="{{ project.url | prepend: site.baseurl }}">
         <div class="thumbnail-description-wrapper">
-          <img src="{{ project.thumbnail | prepend: site.image_serve_path }}" alt="{{ project.title }}" width="600" height="450">
+          <!-- <img src="{{ project.thumbnail | prepend: site.image_serve_path }}" alt="{{ project.title }}" > -->
+          <img src="{{ project.thumbnail | prepend: site.image_serve_path }}" alt="{{ project.title }}" style="width:100%; position:absolute; top:50%; left:50%; transform:translate(-50%, -50%);">
           <p class="thumbnail-description">
             <span>{{ project.description }}</span>
           </p>
