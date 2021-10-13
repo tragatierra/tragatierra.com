@@ -1,8 +1,8 @@
 ---
 date: 2021-10-12
 published: true
-title: "Visuales para Tragatierra"
-description: "Visuales para Tragatierra"
+title: "Visuales"
+description: "Tragatierra | visuales por Ethan Akerman"
 categories: visuales, produccion, colaboracion
 # disciplines: UX, Responsive web design, HTML/CSS
 media: Website
